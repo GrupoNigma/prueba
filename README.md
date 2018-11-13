@@ -1,6 +1,6 @@
 # Documentación
 
-Aqui el texto de prueba
+Aqui el texto de prueba editado
 
 1. Item número 1
 2. Item número 2
