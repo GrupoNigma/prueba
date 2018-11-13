@@ -1,2 +1,12 @@
-# prueba
-Aqui descripción del repositorio
+# Documentación
+
+Aqui el texto de prueba
+
+1. Item número 1
+2. Item número 2
+3. Item número 3
+
+> Ahora un texto de mención
+> Para probar que todo quede bien :)
+
+[Grupo Nigma](https://www.nigma.co/)
